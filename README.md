@@ -4,7 +4,7 @@
 
 **Full Stack Developer · System Analyst · Government IT Specialist**
 
-*Turning complex requirements into clean, working systems — from Kathmandu, Nepal 🇳🇵*
+*Turning complex requirements into clean, working systems - from Kathmandu, Nepal 🇳🇵*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yukesh.info.np-0A66C2?style=for-the-badge)](https://www.yukesh.info.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yukeshc-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yukeshc)
@@ -19,7 +19,7 @@
 - 💼 **System Analyst** at Software Development & Operation Center (SDOC), **Kathmandu Metropolitan City**
 - 🎓 **Masters in Information Technology** @ Central Department of CSIT, Tribhuvan University
 - 🏛️ Built and deployed **live government systems** used by KMC and Siyari Rural Municipality
-- 🌐 Developed the **KMC Air Quality Monitoring Dashboard** — live at [kathmandu.gov.np](https://kathmandu.gov.np/kmc-air-quality-monitoring)
+- 🌐 Developed the **KMC Air Quality Monitoring Dashboard** - live at [kathmandu.gov.np](https://kathmandu.gov.np/kmc-air-quality-monitoring)
 - 🛠️ Full stack with **MERN**, growing into **FastAPI + Python**
 - ☁️ Hands-on with **AWS (EC2, S3)**, **Docker**, **Linux server management**, **CI/CD pipelines**
 - 📍 Based in **Kalanki, Kathmandu, Nepal**
@@ -60,8 +60,8 @@
 
 | Project | Description | Live | Tech |
 |--------|-------------|------|------|
-| 🌫️ **KMC Air Quality Dashboard** | Real-time AQI monitoring for Kathmandu — live government project | [🔗 Live](https://kathmandu.gov.np/kmc-air-quality-monitoring) | React, Firebase, APIs |
-| 📄 **Sifarish System** | Digital सिफारिस — org-branded recommendation letter generator | [🔗 Repo](https://github.com/codewithyukesh/certificationsystem) | MERN Stack |
+| 🌫️ **KMC Air Quality Dashboard** | Real-time AQI monitoring for Kathmandu - live government project | [🔗 Live](https://kathmandu.gov.np/kmc-air-quality-monitoring) | React, Firebase, APIs |
+| 📄 **Sifarish System** | Digital सिफारिस - org-branded recommendation letter generator | [🔗 Repo](https://github.com/codewithyukesh/certificationsystem) | MERN Stack |
 | 🛒 **eCommerce + Referral** | Online store with referral reward system and admin panel | [🔗 Repo](https://github.com/codewithyukesh/eCommerceProject-II) | PHP, MySQL, JS |
 | 🔐 **SSO System** | Single Sign-On authentication built during internship at IDEA BREED | [🔗 Repo](https://github.com/codewithyukesh/sso) | React, Express.js |
 
@@ -70,8 +70,8 @@
 ### 🏛️ Government Systems Experience
 
 - 📊 Prepared **SRS documentation** for Bid Management, KMC Website, and eOffice systems
-- 🖥️ Co-developed **Integrated Digital Siyari System** — used municipality-wide for certificate & letter issuance
-- 🌐 Managed **network infrastructure** — switches, firewalls, and internal traffic across KMC offices
+- 🖥️ Co-developed **Integrated Digital Siyari System** - used municipality-wide for certificate & letter issuance
+- 🌐 Managed **network infrastructure** - switches, firewalls, and internal traffic across KMC offices
 - 🚀 Implemented **CI/CD pipelines** and containerization on development servers
 - 👩‍🏫 Trained **50+ staff** across 15+ e-governance sessions
 
@@ -91,8 +91,8 @@
 
 ### 📜 Certifications
 
-- 🎓 **Understanding Systems Analysis** — Alison (2025)
-- 🌐 **Advanced Computer Networking with Cisco CCNA** — LearnVern (2025)
+- 🎓 **Understanding Systems Analysis** - Alison (2025)
+- 🌐 **Advanced Computer Networking with Cisco CCNA** - LearnVern (2025)
 
 ---
 
